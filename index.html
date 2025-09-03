@@ -4,18 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Montserrat"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Noto Sans"
-    />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css?family=Quicksand"
     />
     <link
       rel="stylesheet"
@@ -23,32 +18,48 @@
     />
     <title>Resilience</title>
   </head>
+
   <body>
-    <nav>
-      <a href="/flexbox.html">Flexbox</a> | <a href="/gear/">Gear</a> |
-      <a href="/podcast/">Podcast</a> |
-      <a href="/chat/">Chat</a>
-    </nav>
+    <!-- NAVIGATION -->
     <header>
-      <h2>Resilience is a state of mind</h2>
+      <h2 class="brand">Resilience</h2>
+      <nav>
+        <a href="/flexbox.html">Flexbox</a> | <a href="/gear/">Gear</a> |
+        <a href="/podcast/">Podcast</a> |
+        <a href="/chat/">Chat</a>
+      </nav>
     </header>
 
-    <p class="noto-sans">Noto sans font, do you like this font?</p>
-    <p class="quicksand">Quicksand, how does this look?</p>
-    <p class="outfit">Outfit, does this look really cool?</p>
     <!-- RUNNING AWAY SECTION -->
-    <section>
-      <div class="container">
-        <img src="static/away.jpg" />
-        <div class="montserrat">
-          Montserrat font... Over the top of running away?
-        </div>
+    <div class="container">
+      <img src="static/away.jpg" />
+      <div class="text">
+        Resilience gets you back out there, even when you are desperate to give
+        up.
       </div>
-    </section>
+    </div>
+
+    <!-- STICKY -->
+    <h2 class="sticky-banner">Resilience is a state of mind</h2>
+
+    <!-- GROUP RUNNING SECTION -->
+    <div class="container">
+      <img src="static/group.jpg" />
+      <div class="text2">Resilience pushes your mind, until you succeed</div>
+    </div>
     <!--  
-    <div><img src="static/group.jpg" /></div>
-    <div><img src="static/wheelchair.jpg" /></div>
-    -->
-    <footer>Made by SteveW</footer>
+      <div><img src="static/wheelchair.jpg" /></div>
+      -->
+
+    <!-- FOOTER -->
+    <footer>
+      <div>Steve</div>
+      <div class="icons">
+        <i class="fa fa-facebook" style="font-size: 36px"></i>
+        <i class="fa fa-github" style="font-size: 36px"></i>
+        <i class="fa fa-instagram" style="font-size: 36px"></i>
+        <i class="fa fa-youtube-play" style="font-size: 36px"></i>
+      </div>
+    </footer>
   </body>
 </html>

@@ -1,0 +1,34 @@
+body {
+  font-size: 2em;
+}
+.box {
+  height: 100px;
+  width: 100px;
+}
+.one {
+  background-color: red;
+}
+
+.two {
+  background-color: orange;
+}
+
+.three {
+  background-color: yellow;
+}
+
+.four {
+  background-color: limegreen;
+}
+
+.five {
+  background-color: blue;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  top: 0px;
+  height: 50px;
+}

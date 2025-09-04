@@ -50,19 +50,18 @@ footer {
 }
 
 /*Training flexbox*/
-.flex-box {
+.training-plans {
   display: flex;
-  background-color: red;
   flex-direction: row;
   justify-content: space-evenly;
+  align-items: center;
+  height: 50vh;
 }
 
 img {
   height: 150px;
 }
-/*
-.margin {
-  margin: 100px;
-  padding: 20px;
+
+a:hover {
+  background-color: #32becd;
 }
-*/

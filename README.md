@@ -1,6 +1,6 @@
 Hi hi
 **Bold**
 
-#Example headings
+# Example headings
 
-##Sample Section
+## Sample Section

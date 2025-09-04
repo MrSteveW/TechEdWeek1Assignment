@@ -19,6 +19,7 @@ header {
   top: 0px;
   height: 50px;
   align-items: center;
+  justify-content: center;
   font-family: Outfit;
   background-color: #dbdcde;
   z-index: 1;

@@ -11,7 +11,7 @@
 - [x] I learned how to implement smooth scrolling using CSS **scroll-behavior: smooth**
 - [x] I love using pseudo tags to change the a:hover effects, I used a minimal style to suit this website
 - [x] For the footer social media icons, I used the Font-Awesome icons.
-- [x] I
+- [x] Added dark mode - I wanted to add some JavaScript. I can only change the document body, not all backgroundcolors, so the banner is still grey :sob:
 
 ## :pushpin: Unable to achieve
 

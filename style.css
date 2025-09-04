@@ -1,12 +1,14 @@
 * {
   box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: Montserrat, sans-serif;
 }
 
 body {
   font-size: 1.5rem;
   margin-top: 50px;
   margin-bottom: 50px;
-  font-family: Montserrat;
+
   background-color: #dbdcde;
 }
 /* Header flex CSS */
@@ -19,6 +21,7 @@ header {
   align-items: center;
   font-family: Outfit;
   background-color: #dbdcde;
+  z-index: 1;
 }
 
 nav {
@@ -33,7 +36,6 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: steelblue;
 }
 /* Footer flex CSS */
 footer {
@@ -64,22 +66,28 @@ footer {
   width: 100%;
 }
 
-.container2 img {
-  width: 100%;
-}
-
+/* Text*/
 .text {
   position: absolute;
-  top: 8px;
-  right: 16px;
-}
-.text2 {
-  position: absolute;
-  top: 8px;
-  right: 16px;
+  top: 50%;
+  left: 50%;
+  max-width: 40%;
+  text-align: center;
+  line-height: 2.5rem;
+  opacity: 0.6;
+  background-color: #dbdcde;
+  transform: translate(-50%, -50%);
+  padding: 4px;
 }
 
 /* SORT OUT */
 .icons {
   margin-right: 100px;
+}
+
+.btt {
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  color: yellow;
 }

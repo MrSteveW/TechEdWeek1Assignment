@@ -19,6 +19,7 @@
 
 - [ ] I didn't look at adding background music as proper websites don't have music playing automatically(!) Something to look at in the future is embedding video playing. :unamused:
 - [ ] Had some trouble with using a relative div containing an image with **position: absolute** text inside it. Having several of these over-rode my top nav bar. I had to fix this with z-index. This then stopping the **position: sticky** header from scrolling to the top and replacing 'Resilience' with added text. Sad times. :persevere:
+- [ ] I had real problems when I moved my project folder - all of the images stopped rendering on Github pages :sob:
 
 ## :computer: External sources I used
 

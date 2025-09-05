@@ -93,16 +93,18 @@ footer {
 }
 
 .awayimg {
+  height: 100vh;
   background-image: url("static/away.jpg");
-  background-size: cover;
 }
 
 .groupimg {
   background-image: url("static/group.jpg");
   background-size: cover;
+  height: 100vh;
 }
 
 .wheelchairimg {
+  height: 100vh;
   background-image: url("static/wheelchair.jpg");
   background-size: cover;
 }

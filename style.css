@@ -59,7 +59,7 @@ footer {
 }
 
 /* container relative fixes the wording to each container..breaks the HEADER!!*/
-.container {
+.feature {
   position: relative;
   background-size: cover;
   height: 100vh;
@@ -79,7 +79,6 @@ footer {
   padding: 4px;
 }
 
-/* SORT OUT */
 .icons {
   margin-right: 100px;
 }
@@ -92,13 +91,13 @@ footer {
 }
 
 .awayimg {
-  background-image: url("./static/away.jpg");
+  background-image: url("static/away.jpg");
 }
 
 .groupimg {
-  background-image: url("./static/group.jpg");
+  background-image: url("static/group.jpg");
 }
 
 .wheelchairimg {
-  background-image: url("./static/wheelchair.jpg");
+  background-image: url("static/wheelchair.jpg");
 }

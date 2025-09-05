@@ -61,9 +61,7 @@ footer {
 /* container relative fixes the wording to each container..breaks the HEADER!!*/
 .container {
   position: relative;
-}
-.container img {
-  height: 100vh;
+  background-size: cover;
 }
 
 /* Text*/
@@ -94,15 +92,12 @@ footer {
 
 .awayimg {
   background-image: url("static/away.jpg");
-  background-size: cover;
 }
 
 .groupimg {
   background-image: url("static/group.jpg");
-  background-size: cover;
 }
 
 .wheelchairimg {
   background-image: url("static/wheelchair.jpg");
-  background-size: cover;
 }

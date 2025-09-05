@@ -93,7 +93,6 @@ footer {
 }
 
 .awayimg {
-  height: 100vh;
   background-image: url("static/away.jpg");
   background-size: cover;
 }
@@ -104,7 +103,6 @@ footer {
 }
 
 .wheelchairimg {
-  height: 100vh;
   background-image: url("static/wheelchair.jpg");
   background-size: cover;
 }

@@ -4,10 +4,11 @@
 - [x] Implemented CSS absolute positioning to overlay text on an image - using repeated CSS to reduce code
 - [x] Utilised Flexbox to create a responsive layout. I am particularly happy with using **font-size: vw** to make text size reponsive to the viewport window
 - [x] I am so pleased that I learned how to copy files from my Windows system into the Ubuntu - I had been searching the web for a whole day! Images were cp'ed into the Ubuntu project folder and pushed to github, so are stable for the site. Images are also responsive. :blush:  
-      Update: SamL advised us to replace img tag with source (as stated on Assignment) to CSS bg url {} (as per class).
+       Update: SamL advised us to replace img tag with source (as stated on Assignment) to CSS bg url {} (as per class).
 
 ## :dart: Stretch goals
 
+- [x] I already knew have to import Google Fonts :thumbsup:
 - [x] Back to top button is a Font-Awesome icon using an anchor tag at the top of the page :smiley:
 - [x] I learned how to implement smooth scrolling using CSS **scroll-behavior: smooth** :relaxed:
 - [x] I loved using pseudo tags to change the a:hover effects, though I used a minimal style to suit this website :smirk:

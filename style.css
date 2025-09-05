@@ -92,19 +92,20 @@ footer {
   color: yellow;
 }
 
+/*
 .awayimg {
+
   background-color: aquamarine;
 }
 
-/* .awayimg {
+ .awayimg {
   background-image: url("/static/away.jpg");
 }
-*/
 
 .groupimg {
   background-image: url("static/group.jpg");
 }
-/*
+
 .wheelchairimg {
   width: 300px;
   height: 200px;

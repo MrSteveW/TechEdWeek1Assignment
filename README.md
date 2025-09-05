@@ -3,7 +3,8 @@
 - [x] Used semantic tags: header, nav and footer
 - [x] Implemented CSS absolute positioning to overlay text on an image - using repeated CSS to reduce code
 - [x] Utilised Flexbox to create a responsive layout. I am particularly happy with using **font-size: vw** to make text size reponsive to the viewport window
-- [x] I am so pleased that I learned how to copy files from my Windows system into the Ubuntu - I had been searching the web for a whole day! Images were cp'ed into the Ubuntu project folder and pushed to github, so are stable for the site. Images are also responsive. :blush:
+- [x] I am so pleased that I learned how to copy files from my Windows system into the Ubuntu - I had been searching the web for a whole day! Images were cp'ed into the Ubuntu project folder and pushed to github, so are stable for the site. Images are also responsive. :blush:  
+      Update: SamL advised us to replace img tag with source (as stated on Assignment) to CSS bg url {} (as per class).
 
 ## :dart: Stretch goals
 

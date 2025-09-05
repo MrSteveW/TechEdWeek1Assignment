@@ -93,7 +93,7 @@ footer {
 }
 
 .awayimg {
-  background-image: url("./static/away.jpg");
+  background-image: url("/static/away.jpg");
 }
 
 .groupimg {

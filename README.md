@@ -26,5 +26,4 @@
 W3School - https://www.w3schools.com/  
 unsplash.com for royalty-free images  
 fonts.google.com for fonts  
-https://fontawesome.com/v4/icons for icons  
-I have (on occasion) asked GitHubCo-Pilot to explain why something is not working. I look at its suggested code, then reject it and re-write myself. That way, I learn for next time :muscle:
+https://fontawesome.com/v4/icons for icons

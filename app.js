@@ -1,5 +1,6 @@
 function changeDarkMode() {
   document.body.style.backgroundColor = "#1d2935";
+  document.body.style.color = "white";
   const header = document.getElementById("header");
   header.style.backgroundColor = "#1d2935";
   const footer = document.getElementById("footer");

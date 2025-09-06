@@ -101,3 +101,7 @@ footer {
 .wheelchairimg {
   background-image: url("static/wheelchair.jpg");
 }
+
+#textarea {
+  resize: none;
+}
